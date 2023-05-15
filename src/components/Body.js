@@ -29,6 +29,7 @@ export default function Body(props) {
     <div className="container my-3">
       <h2>summary</h2>
       <p> {text.split(" ").length} words and {text.length} character</p>
+      
     </div>
     </>
   );
